@@ -1,210 +1,187 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Hi%2C%20I'm%20Mubarak%20Atheeb%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Nusaputra%20University%20%7C%20Semester%202&descAlignY=62&descSize=15"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&colors=6366f1,8b5cf6,a855f7&height=200&section=header&text=Mubarak%20Atheeb&fontSize=60&fontAlignY=40&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=8B5CF6&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Machine+Learning+Specialist;Full+Stack+Developer;Microsoft+Student+Ambassador)](https://git.io/typing-svg)
+
+<br>
+
+![Academic](https://img.shields.io/badge/Nusa_Putra_University-Informatics_Engineering-6366f1?style=for-the-badge&logo=google-scholar)
+![Location](https://img.shields.io/badge/Sukabumi-Indonesia-8b5cf6?style=for-the-badge&logo=google-maps)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click_to_View-a855f7?style=for-the-badge&logo=internetexplorer)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mubarak-atheeb)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-8b5cf6?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-a855f7?style=for-the-badge&logo=github)](https://github.com/mubarak-atheeb)
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=mubarak-atheeb&color=6366f1&style=flat-square)
+![Followers](https://img.shields.io/github/followers/mubarak-atheeb?color=8b5cf6&style=flat-square)
+![Stars](https://img.shields.io/github/stars/mubarak-atheeb?color=a855f7&style=flat-square)
+
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate **Software Engineer** and **AI/ML Specialist** currently pursuing an Informatics Engineering degree at Nusa Putra University. My professional journey is defined by a deep curiosity for solving complex technical problems through scalable software design, intelligent algorithms, and efficient product engineering.
+
+*   **Engineering Focus:** Building robust, high-performance applications with a user-centric mindset.
+*   **AI/ML Expertise:** Leveraging machine learning pipelines to derive insights and automate processes.
+*   **Product Mindset:** Translating technical requirements into impactful, enterprise-grade solutions.
+
+> Currently **Open to collaborations** on AI research, open-source projects, and full-stack engineering roles.
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Learning+to+build+AI+that+matters+🧠;First-year+student%2C+big+dreams+🚀;Python+%7C+ML+%7C+Deep+Learning+every+day;From+Sri+Lanka%2C+studying+in+Indonesia+🌏;Open+to+internships+%26+collaborations!)](https://git.io/typing-svg)
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<br/>
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=atheeb&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/atheeb)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/atheeb?style=flat-square&color=6366f1&logo=github&logoColor=white&label=Followers)](https://github.com/atheeb)
-&nbsp;
-![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-22c55e?style=flat-square)
-&nbsp;
-![Semester](https://img.shields.io/badge/Semester-2%20%7C%20Year%201-6366f1?style=flat-square)
+### Backend & Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
-
----
-
-## 👋 About Me
-
-```python
-student = {
-    "name"       : "Mubarak Atheeb",
-    "github"     : "@atheeb",
-    "email"      : "atheeb1311@gmail.com",
-    "from"       : "Nintavur, Sri Lanka 🇱🇰",
-    "based_in"   : "Sukabumi, Indonesia 🇮🇩",
-    "university" : "Nusaputra University",
-    "degree"     : "B.Eng Informatics Engineering",
-    "year"       : "1st Year — Semester 2",
-    "focus"      : "AI, Machine Learning & Data Science",
-    "languages"  : ["Tamil", "English", "Arabic", "Sinhala"],
-    "fun_fact"   : "I debug in 4 languages 😄",
-    "goal"       : "Build intelligent systems that create real impact 🚀",
-}
-```
-
----
-
-## 🛠️ Skills
-
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-
-**Web & Databases**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=atheeb&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=6366f1&icon_color=6366f1&text_color=374151&bg_color=ffffff&border_radius=10"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atheeb&layout=compact&theme=default&hide_border=true&title_color=6366f1&text_color=374151&bg_color=ffffff&langs_count=6&border_radius=10"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=atheeb&theme=default&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=6b7280&dates=9ca3af&border_radius=10)](https://git.io/streak-stats)
+### Cloud, DevOps & Tooling
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Activity
+## 🧠 AI / ML Expertise
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atheeb&theme=minimal&bg_color=ffffff&color=6366f1&line=6366f1&point=6366f1&area=true&area_color=e0e7ff&hide_border=true)](https://github.com/atheeb)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=atheeb&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Machine Learning** | Advanced | Scikit-learn, Model Deployment |
+| **Data Analytics** | Intermediate | Predictive Modeling, Data Visualization |
+| **Neural Networks** | Intermediate | TensorFlow, Keras integration |
 
 ---
 
-## 🚀 Projects
-
-| Project | Stack | What I built |
-|:--|:--|:--|
-| **AI Intelligent System** | Python · TensorFlow · Scikit-learn | End-to-end ML pipeline: preprocessing → training → evaluation |
-| **School Web Platform** | HTML · CSS · JavaScript · CMS | Led team to build fully responsive school website |
-| **Internal Software Suite** | Python · SQL · OOP | Management software for school operations |
-
----
-
-## 💼 Experience
+## 🚀 Featured Projects
 
 <details>
-<summary><b>Computer Technician — BSC Computers &nbsp;|&nbsp; 2021–2024 &nbsp;|&nbsp; Sri Lanka</b></summary>
+<summary><b>Project Name: AI/ML Analytics Suite</b></summary>
+<br>
 
-<br/>
+**Description:** A professional-grade analytics engine utilizing machine learning models to process large datasets and provide actionable insights.
 
-- Diagnosed and resolved hardware & software issues for business and individual clients
-- Executed data recovery operations under tight deadlines
-- Helped develop and maintain internal web-based tools
-- Contributed to improving service delivery processes as a team
+| Stack | Scale | Performance | Security | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| Python, Scikit-learn | Big Data | Optimized | Secure API | High Utility |
 
-> `Hardware` `Data Recovery` `Web Development` `Technical Support` `Linux`
+[View Repository](https://github.com/mubarak-atheeb/repo)
 
 </details>
 
 ---
 
-## 🎓 Education
+## 💼 Experience
 
-| Degree | Institution | Year |
-|:--|:--|:--|
-| **B.Eng Informatics Engineering** | Nusaputra University, Indonesia | 2024 – Present |
-| **Arabic Language & Islamic Studies** | Daar Ibnu Masooth Arabic College | 2019 – 2024 |
-| **GCE Advanced Level** | Km/Km Imam Gazzaly Maha Vidyalaya | 2017 – 2019 |
-| **GCE Ordinary Level** | Km/Km Imam Gazzaly Maha Vidyalaya | 2010 – 2016 |
+### **Microsoft Student Ambassador**
+**Microsoft** | *2025 - Present*
+*   Leading technical workshops and community engagement initiatives.
+*   Advocating for modern software development practices.
+
+### **Intern - Artificial Intelligence, ML & Data Analytics**
+**Novitech** | *2025*
+*   Developed predictive models for data-driven decision-making.
+*   Optimized data pipelines for improved processing speeds.
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **Academic Excellence** | Consistent high-performer in Informatics Engineering |
+| **Commonwealth Scholarship** | Selected for supervised examination/selection |
+
+</div>
 
 ---
 
 ## 📜 Certifications
 
-| | Certificate | Issuer |
-|:--|:--|:--|
-| 🟣 | Masters in Artificial Intelligence | NOVITECH |
-| 🔵 | Diploma in Machine Learning | NOVITECH |
-| 🟢 | Diploma in Data Analytics | NOVITECH |
-| 🟡 | Python for Data Science & AI | IBM / Coursera |
-| 🗄️ | SQL for Data Analysis | Kaggle |
-| 🌐 | Web Design Certificate ×2 | Cyber Lowata Piyath & SuhuruSara |
-| 🥇 | Island-Wide 7th Place — Social Science | National (Sri Lanka) |
+![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazon-aws)
+![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle)
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-0078D4?style=for-the-badge)
 
 ---
 
-## 📚 Currently Learning
-
-```
-🧠  Deep Learning     →  CNNs · RNNs · Transformers
-💬  NLP & LLMs        →  Prompt Engineering · RAG · Fine-tuning
-☁️   Cloud AI          →  Azure AI-900 · AWS ML Pathway
-🔬  Data Science      →  Advanced EDA · Feature Engineering
-🔧  MLOps             →  Model deployment · Monitoring
-```
-
----
-
-## 🎯 2025 Goals
-
-- ✅ Complete NOVITECH AI & ML certifications
-- ✅ Publish first AI projects on GitHub
-- 🔄 Complete Azure AI-900 certification
-- 🔄 Deploy a production-ready ML model
-- 🔄 Contribute to open-source AI repos
-- ⬜ Land first AI/ML internship
-- ⬜ Build a personal AI portfolio website
-
----
-
-## 🌐 Connect
+## 📊 Coding Profiles
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-atheeb1311%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:atheeb1311@gmail.com)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%40atheeb-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atheeb)
-&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0779413135-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/940779413135)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/mubarak-atheeb)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-298D46?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/mubarak-atheeb)
 
 </div>
 
 ---
 
+## 📈 GitHub Analytics
+
 <div align="center">
 
-*"Build intelligent systems that create real impact." — Mubarak Atheeb*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&animation=fadeIn"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubarak-atheeb&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mubarak-atheeb&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarak-atheeb&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mubarak-atheeb&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌿 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mubarak-atheeb&theme=tokyonight&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/mubarak-atheeb/mubarak-atheeb/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Focus:
+  Learning: "Advanced Cloud Architecture & System Design"
+  Building: "AI-Driven Full Stack Solutions"
+  Exploring: "Generative AI Research"
+  Open_To: ["Collaboration", "Technical Mentorship", "Speaking"]
